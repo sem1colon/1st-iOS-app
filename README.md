@@ -1,2 +1,2 @@
 # iOS-Apps
-This repo consists of demo two apps.
+This repo consists of two demo apps.
